@@ -1,4 +1,4 @@
-# A fork of factioms UUID (Basicly Better looking :D )
+# A fork of factions UUID (Basicly Better looking :D )
 FactionsUUID
 ====================
 <rant>

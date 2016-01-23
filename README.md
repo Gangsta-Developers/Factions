@@ -1,4 +1,4 @@
-# Factioms REVAMPED (Basicly Better looking :D )
+# A fork of factioms UUID (Basicly Better looking :D )
 FactionsUUID
 ====================
 <rant>
